@@ -3,7 +3,7 @@
 
 ![alt text](https://i.imgur.com/sVN4Vkw.png)
 1. Available formats: **All**
-2. Speed: **1m/517 photo**.
+2. Speed: **1m/280 photo**.
 3. Downloads photos: **to the root folder.**
 4. Output Format: **URL - TIME DOWNLOAD - COUNT**
 ## Install win:
